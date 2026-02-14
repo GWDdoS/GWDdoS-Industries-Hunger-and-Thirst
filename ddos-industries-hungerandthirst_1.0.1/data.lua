@@ -97,7 +97,7 @@ local water_purifier_recipe = {
     type = "recipe", name = "water-purifier", enabled = true,
     ingredients = {
         {type = "item", name = "stone", amount = 20},
-        {type = "item", name = "stone-pipe", amount = 5},
+        {type = "item", name = "pipe", amount = 5},
         {type = "item", name = "wood", amount = 10}
     },
     results = {{type = "item", name = "water-purifier", amount = 1}}
