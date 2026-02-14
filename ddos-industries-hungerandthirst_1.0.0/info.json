@@ -7,7 +7,7 @@
   "description": "Hunger and Thirst: A mod made for GWDdoS Industries, but now also standalone. Adds a hunger and thirst system to the game, with various ways to manage them as well as non-infinite water.",
   "dependencies": [
     "base >= 2.0.0",
-    "(?) the_shallows_updated >= 2.0.0",
-    "(?) canal-excavator >= 1.13.3"
+    "? the_shallows_updated >= 2.0.0",
+    "? canal-excavator >= 1.13.3"
   ]
 }
